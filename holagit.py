@@ -1,2 +1,1 @@
-print("nuevo holagit")
-print("que tal el curso?")
+print("hola andrea
